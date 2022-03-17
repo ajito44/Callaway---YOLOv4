@@ -15,6 +15,7 @@
  - Weight file (previous group): https://drive.google.com/file/d/1B519piHVWGLYfzDS1By_8OI9UzCFqtvy/view?usp=sharing
  - Weight file (YOLO): https://newreleases.io/project/github/AlexeyAB/darknet/release/darknet_yolo_v4_pre
  - Images for training: https://drive.google.com/drive/folders/1-AhevnDRzTTQD7fhwJYCs97crFWCRsGw?usp=sharing
+ - Files for training: obj.data, train.txt, obj.names
  
 ## If trying to run https://github.com/anwarhsu/golf-detection on a MacOS, the terminal commands are as follows: 
 - Steps 1 and 2 are the same
