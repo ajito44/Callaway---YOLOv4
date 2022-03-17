@@ -17,7 +17,7 @@
  - Images for training: https://drive.google.com/drive/folders/1-AhevnDRzTTQD7fhwJYCs97crFWCRsGw?usp=sharing
  - Files for training: **obj.data, train.txt, obj.names**
  
-## If trying to run https://github.com/anwarhsu/golf-detection on a MacOS, the terminal commands are as follows: 
+## If trying to run https://github.com/anwarhsu/golf-detection on a MacOS, the terminal commands to **Build Project** are as follows: 
 - Steps 1 and 2 are the same
 
 - Step 3: 
