@@ -1,5 +1,9 @@
 # Callaway---YOLOv4
 
+# This repository alone will not run YOLOv4. To download and run YOLOv4 please use: https://github.com/AlexeyAB/darknet or read through https://pjreddie.com/darknet/yolo/ 
+
+- Use *Visual Studio Code* to run the program
+
 ## This project is for the Callaway Golf Measurement System.
 
 - For reference to Fall21': https://github.com/anwarhsu/golf-detection
@@ -7,12 +11,11 @@
 - For annotating images: https://github.com/tzutalin/labelImg
 
 ## This repository contains all the necessary files to run YOLOv4 with our custom requirements:
- - YOLOv4 code
  - Configuration File (good for two objects)
  - Weight file (previous group): https://drive.google.com/file/d/1B519piHVWGLYfzDS1By_8OI9UzCFqtvy/view?usp=sharing
  - Weight file (YOLO): https://newreleases.io/project/github/AlexeyAB/darknet/release/darknet_yolo_v4_pre
- - Images for training
-
+ - Images for training: https://drive.google.com/drive/folders/1-AhevnDRzTTQD7fhwJYCs97crFWCRsGw?usp=sharing
+ 
 ## If trying to run https://github.com/anwarhsu/golf-detection on a MacOS, the terminal commands are as follows: 
 - Steps 1 and 2 are the same
 
